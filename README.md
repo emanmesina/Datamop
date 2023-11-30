@@ -21,7 +21,6 @@ To install the required Python libraries, run:
 
 ### Running Data Mop
 To run Data Mop, execute the following command in the terminal, run:
-- requirements.txt  (If it's your first time running it, then run...)
 - app.py
 
 ## How to Use
